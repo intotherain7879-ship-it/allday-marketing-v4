@@ -1,4 +1,4 @@
-import {useMemo,useRef,useState} from 'react';
+import React, { useMemo, useRef, useState } from 'react';
 import {Home,MapPin,FileText,Archive,Settings,Plus,Camera,Mic,Sparkles,Pencil,Upload,Check,Menu,X,Trash2,Save,Clipboard,ImagePlus} from 'lucide-react';
 
 const KEY='allday-marketing-v4';
